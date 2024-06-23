@@ -38,3 +38,6 @@ Running requires a MS-DOS or compatible emulator (DosBox, FreeDOS)
 
 You also need TASM/TLink (they are included in the binary release). TLink requires DPMILoad.exe, which I don't have it anymore.
 
+## Media
+
+![AsmIDE in DosBox](.media/asmide_dosbox.png "AsmIDE running in DosBox")
