@@ -8,14 +8,14 @@ At that time, I had taken up an interest in x86 assembler and thought an IDE wou
 
 Unfortunately, there wasn't much interest for it at that time for me to invest time into it, so I've eventually abandoned it.
 
-A few assembler source code programs have been included in the [samples](original-dos\samples) folder, including Little, my first intro written completely in assembler.
+A few assembler source code programs have been included in the [samples](original-dos/samples) folder, including Little, my first intro written completely in assembler.
 
 ## Help
 If you're familiar with the Borland IDE, all the editing shortcuts are the same.
 
 It's advised to File > Change Dir before opening a file not in the same folder as the AsmIde executable, otherwise it'll throw an error. It's either a coding mistake on my part or some weird behaviour of Turbo Vision, more likely the former.
 
-Original release notes in English and Romanian are included in the [doc](original-dos\doc) folder. Please excuse the cringe ;)
+Original release notes in English and Romanian are included in the [doc](original-dos/doc) folder. Please excuse the cringe ;)
 
 ## TODO
 * build with FPC
