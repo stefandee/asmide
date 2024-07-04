@@ -6,7 +6,7 @@ It was developed in 1995-1996 as a showcase for a course/lab at university (Univ
 
 At that time, I had taken up an interest in x86 assembler and thought an IDE would be speed up development.
 
-Unfortunately, there wasn't much interest for it at that time for me to invest time into it, so I've eventually abandoned it.
+Unfortunately, there wasn't much interest around for me to put more work into it, so I've eventually abandoned it.
 
 A few assembler source code programs have been included in the [samples](original-dos/samples) folder, including Little, my first intro written completely in assembler.
 
